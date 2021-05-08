@@ -1,2 +1,2 @@
 # horiseon-website
-An accessible HTML website
+An accessible and optimized HTML website
