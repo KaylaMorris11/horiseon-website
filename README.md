@@ -8,4 +8,3 @@ The problems I solved were changing the divs to the proper semantic elements, ad
 
 I learned that semantic elements and alt tags describing images and icons are necessary so that those with disabilities are also able to use the website.
 
-![Horiseon Website Screenshot](./Website Screenshot-1)
