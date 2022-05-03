@@ -2,9 +2,9 @@
 An HTML website that is accessible and optimized
 https://kaylamorris11.github.io/horiseon-website/ 
 
-My motivation was to learn how to create a website that was accessible, neat, and performed at the best of it's ability.
+My motivation was to learn how to create a website that was accessible by those with disabilities, neat, and performed at the best of it's ability.
 
-The problems I solved were changing the divs to the proper semantic elements, consalidated elements in the css file, added alt tags to all images and icons, and deleted anything unnecessary.
+The problems I solved were changing the divs to the proper semantic elements, consalidating elements in the css file, adding alt tags to all images and icons, and deleted anything unnecessary.
 
 I learned that semantic elements and alt tags describing images and icons are necessary so that those with disabilities are also able to use the website.
 
